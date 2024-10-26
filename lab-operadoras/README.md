@@ -4,7 +4,8 @@
 
 - Para ser usado em laboratórios de Firewall, VPN site-to-site, VPN client-to-site de vários fornecedores.
 
-- Roteadores Mikrotik usado com firmware na versão 7.16.1
+- Roteadores Mikrotik com firmware na versão 7.16.1
+  - Usuário e Senha: admin
 
 ## Diagrama de conexões entre os roteadores
 <br>
