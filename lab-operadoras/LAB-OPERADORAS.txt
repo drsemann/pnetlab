@@ -1,0 +1,65 @@
+##### PTP-VIVO-CLARO #####
+
+network: 10.200.1.4/30
+Porta..: 5
+Vivo-> 10.200.1.5
+Claro-> 10.200.1.6
+
+##### PTP-VIVO-ALGAR #####
+
+network: 10.200.1.0/30
+Porta..: 7
+Vivo -> 10.200.1.1
+Algar -> 10.200.1.2
+
+##### PTP-VIVO-UNIFIQUE #####
+
+network: 10.200.1.12/30
+Porta..: 2
+Vivo -> 10.200.1.13
+Unifique -> 10.200.1.14
+
+##### PTP-CLARO-ALGAR #####
+
+network: 10.200.1.8/30
+Porta..: 6
+Claro -> 10.200.1.9
+Algar -> 10.200.1.10
+
+##### PTP-CLARO-UNIFIQUE #####
+
+network: 10.200.1.20/30
+Porta: 3
+Claro -> 10.200.1.22
+Unifique -> 10.200.1.21
+
+##### PTP-ALGAR-UNIFIQUE #####
+
+network: 10.200.1.16/30
+Porta..: 4
+Algar -> 10.200.1.18
+Unifique -> 10.200.1.17
+
+##### VIVO #####
+
+Porta: 9
+Clientes -> 201.1.2.1
+cloud7
+
+##### CLARO #####
+
+Porta: 9
+Clientes -> 199.1.2.1
+Cloud8
+
+##### ALGAR #####
+
+Porta: 9
+Clientes -> 200.1.2.1/24
+cloud9
+
+##### UNIFIQUE #####
+
+Porta: 9
+Clientes -> 191.6.88.1/24
+Cloud6
