@@ -2,7 +2,7 @@
 
 - Simula a entrega de IP Dedicado das operadoras Vivo, Algar, Claro e Unifique.
 
-- Para ser usado em laboratórios de Firewall, VPN site-to-site, VPN client-to-site de vários fornecedores.
+- Para ser usado em laboratórios de Firewall, VPN site-to-site, VPN client-to-site e Link FailOver de vários fornecedores.
 
 - Roteadores Mikrotik com firmware na versão 7.16.1
   - Usuário e Senha: admin
